@@ -1,4 +1,4 @@
-# Some Statistics Solution with Python
+# Statistics Solution in Python
 
 ## Main Libs used in this Project are:
 
